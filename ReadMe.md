@@ -5,7 +5,7 @@ Get detailed server and VM stats straight from the cmdline or via webapp.
 ## Disclaimer
 
 This is my first Go app, so no complaining. capiche?
-
+Also don't ask for the temperatures to be in farenheit. It isn't happening.
 
 
 ## Status
