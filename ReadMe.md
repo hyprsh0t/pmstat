@@ -15,3 +15,5 @@ Memory: Soon
 Network: Soon
 VM's: Soon
 
+CLI: Partially
+WebApp (Reflex): Soon
