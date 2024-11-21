@@ -1,5 +1,5 @@
 # Proxbox 📦
-Get detailed server and VM stats straight from the cmdline or via webapp.
+Get detailed Proxmox server and VM stats straight from the cmdline or via webapp.
 
 
 ## Disclaimer
